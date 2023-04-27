@@ -574,6 +574,7 @@ header nav ul li {
 	display: inline-block;
 	padding: 20px;
 	font-size: 1.25em;
+	font-family: 'nunito', sans-serif;
 }
 
 header nav ul li:before {
@@ -768,6 +769,10 @@ footer {
 	font-size: 1.125em;
 	border-bottom: 1px dashed #c16e86;
 	padding: 10px 20px 10px 0;
+}
+
+.texto {
+	font-family: 'Nunino', sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
