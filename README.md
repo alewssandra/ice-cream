@@ -2,7 +2,8 @@
 
 Neste projeto, desenvolvi o "Ice Cream - Sorveteria", landing page responsiva com HTML e CSS. Para ver o resultado final funcionando, [clique aqui.](https://alewssandra.github.io/ice-cream/)
 
-![alewssandra github io_restauranterest_](https://user-images.githubusercontent.com/56393487/225957326-f4904abc-451a-40f2-a9a3-d16e8f40b75f.png)
+![alewssandra github io_ice-cream_](https://user-images.githubusercontent.com/56393487/234961677-db00bc59-2a8d-40a4-8df0-d987d6a26aec.png)
+
 
 ## :information_source: Como Usar?
 
