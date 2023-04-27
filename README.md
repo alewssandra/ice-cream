@@ -1,9 +1,6 @@
-<p align="center">
-    <a href="https://github.com/jorgejrdj"><img src="https://i.ibb.co/bHVkGTx/1525356724116.png" alt="1525356724116" border="0"></a> </p>
-
 # Ice Cream - Landing Page criada com HTML e CSS
 
-Neste projeto, desenvolvi o "Ice Cream - Sorveteria", landing page responsiva com HTML e CSS. O desenvolvimento dessa página faz parte do Curso "Tipografia Avançada", realizado pelo professor André Rafael na plataforma *ORIGAMID.* Para ver o resultado final funcionando, [clique aqui.](https://alewssandra.github.io/restauranterest/)
+Neste projeto, desenvolvi o "Ice Cream - Sorveteria", landing page responsiva com HTML e CSS. Para ver o resultado final funcionando, [clique aqui.](https://alewssandra.github.io/ice-cream/)
 
 ![alewssandra github io_restauranterest_](https://user-images.githubusercontent.com/56393487/225957326-f4904abc-451a-40f2-a9a3-d16e8f40b75f.png)
 
