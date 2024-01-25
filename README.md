@@ -5,7 +5,7 @@ Neste projeto, desenvolvi o "Ice Cream - Sorveteria", landing page responsiva co
 ![alewssandra github io_ice-cream_](https://user-images.githubusercontent.com/56393487/234961677-db00bc59-2a8d-40a4-8df0-d987d6a26aec.png)
 
 
-## :information_source: Como Usar?
+## Como Usar?
 
 Para clonar esta aplicação e rodar em sua máquina, será necessário possuir [Git](https://git-scm.com).
 
